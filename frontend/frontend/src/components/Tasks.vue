@@ -4,7 +4,7 @@
             <!-- bootswatch CDN -->
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/yeti/bootstrap.min.css" integrity="sha384-mLBxp+1RMvmQmXOjBzRjqqr0dP9VHU2tb3FK6VB0fJN/AOu7/y+CAeYeWJZ4b3ii" crossorigin="anonymous">
             <div class="row">
-                <div class="col-sm-12">
+                <div class="col-sm-8">
                      <h2 class="text-center bg-primary text-white" style="border-radius: 10px;">Task's Library ✔</h2 >
                      <hr><br>
 
