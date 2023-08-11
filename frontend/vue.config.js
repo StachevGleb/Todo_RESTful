@@ -3,6 +3,9 @@ module.exports = {
   ? '/tasks'
   : '/',
   configureWebpack: {
+    externals: {
+      vue: 'Vue'
+    },
     resolve: {
       alias: {
         'vue$': 'vue/dist/vue.esm.js', // Use the correct path to your Vue distribution
